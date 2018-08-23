@@ -33,7 +33,9 @@ This project works with real-time datasets to perform accurate analysis and pred
 
 ![frame15](https://user-images.githubusercontent.com/42521528/44527433-691cc100-a704-11e8-8eb3-005135f03163.jpg)
 
-## Working Video
+## Working Videos
+
+Below videos detail the working of the project:
 
 ### Part 1:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/90ePcC4vVE4/0.jpg)](https://www.youtube.com/watch?v=90ePcC4vVE4)
