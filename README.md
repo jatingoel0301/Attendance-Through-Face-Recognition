@@ -14,7 +14,7 @@ This project works with real-time datasets to perform accurate analysis and pred
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VDbYHyLSPag/0.jpg)](https://www.youtube.com/watch?v=VDbYHyLSPag)
 
-### Extraccting Basic Orientations:
+### Extracting Basic Orientations:
 
 ![frame0](https://user-images.githubusercontent.com/42521528/44527110-91f08680-a703-11e8-8168-c90e82c7a341.jpg)
 ![frame1](https://user-images.githubusercontent.com/42521528/44527111-91f08680-a703-11e8-91f8-f108fac6b9de.jpg)
